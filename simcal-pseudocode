@@ -1,0 +1,14 @@
+1. Start
+2. Display Welcome Message
+3. Repeat until user chooses to exit:
+    a. Display MENU: Addition, Subtraction, Multiplication, Division, or Exit
+    b. Get user choice
+    c. If user choice is Exit, display Exit message and end
+    d. If user choice is a valid operation:
+        i. Display chosen operation
+        ii. Input two numbers
+        iii. If input is valid:
+            A. Perform the selected operation
+            B. Display the result
+        iv. If input is not valid, display an error message
+4. End
